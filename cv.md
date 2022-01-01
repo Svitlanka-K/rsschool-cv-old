@@ -26,7 +26,7 @@ Dnipro National University of Railway Transport (DIIT)
 
     <body>
       <ol>
-        <li>Темы
+        <li>Общие темы
           <ul>
             <li>Начинающим</li>
             <li>Новости</li>
